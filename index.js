@@ -42,7 +42,7 @@ function addBurger() {
 // Step 3: Variable Declaration and Scope - Block-scoped variable
 if (true) {
     // Block-scoped variable
-    const anotherNewBurger = 'Maple Bacon Burger';
+    const anotherNewBurger = 'chicken smash burger';
     // Use .push() to add to burgers array
     burgers.push(anotherNewBurger);
     console.log(anotherNewBurger + " added!");
